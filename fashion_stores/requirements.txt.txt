@@ -1,1 +1,4 @@
-gunicorn app:app
+Flask
+Flask-SQLAlchemy
+Werkzeug
+gunicorn
